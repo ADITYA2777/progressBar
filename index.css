@@ -1,0 +1,18 @@
+.progress-container {
+    width: 100%;
+    background-color: #be0b0b;
+    color:whitesmoke;
+}
+
+/* Define the progress bar itself */
+.progress-bar {
+    width: 0;
+    height:50px;
+    background-color: #4caf50;
+    text-align: center;
+    line-height: 30px;
+    color: white;
+    position: fixed;
+    top: 0;
+    left: 0;
+}
